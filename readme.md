@@ -1,7 +1,7 @@
 #ReadMe.md
-	System starting...
-	starting...
-	hello world!
+	System starting...  
+	starting...  
+	hello world!  
 ##YAHO
     Username: Wong Tsz Man  
 ##Developer
@@ -25,9 +25,9 @@ Enabled programming Languages:
 ___
 
 To-be-finished list:  
-[] Finish CSCI3250+21 Project
-[] Do ENGG2430A revision
-[] Finish ELTU2014 Assignments
+[] Finish CSCI3250+21 Project  
+[] Do ENGG2430A revision  
+[] Finish ELTU2014 Assignments  
 [] Finish CSCI2100 Assignments  
 ~~None of them were finished yet:(~~
 
